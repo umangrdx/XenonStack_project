@@ -1,0 +1,12 @@
+.card-title{
+    color: darkred;
+}
+.card-text{
+    color: hsl(145, 100%, 80%);
+    background: hsla(180, 100%, 25%,.8);
+    padding: 10px;
+    border-radius: 10px;
+}
+.card{
+    background: hsla(180, 100%, 25%,.8);
+}
